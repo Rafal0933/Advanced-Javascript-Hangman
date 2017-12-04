@@ -1,0 +1,22 @@
+{
+  "name": "advanced-javascript-hangman",
+  "version": "1.0.0",
+  "description": "Hangman using Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafal0933/Advanced-Javascript-Hangman.git"
+  },
+  "author": "Rafal Kociolek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafal0933/Advanced-Javascript-Hangman/issues"
+  },
+  "homepage": "https://github.com/Rafal0933/Advanced-Javascript-Hangman#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1"
+  }
+}
