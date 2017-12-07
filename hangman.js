@@ -20,6 +20,7 @@ inquirer.prompt([{
 /*                        var guessesRemaining = word.remainingGuesses;
                         if (guesses Remaining)*/
 
+                            // Unable to loop through this //
                         console.log(word.displayWord);
                         console.log(word.remainingGuesses);
                         console.log()
